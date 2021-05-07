@@ -4,15 +4,15 @@ A note taking application developed using flutter developed by Harsha Pulikollu.
 
 ## Checklist
 
-[X] Users can login/SingUp using email or google auth. (Email auth implemented)
-[X] Save data to Firebase DB(Firestore). Saves both user data and user notes.
-[X] Users can change password.
-[X] Password was hashed.
-[X] User can create note and add text and/or image.
-[X] List Notes with title and 2 line content if text.
-[X] Detail page for note.
-[X] Note should be editable.
-[X] User should able to see, edit and create new note even when there is no internet (Data should be synced when there is internet).
+- [X] Users can login/SingUp using email or google auth. (Email auth implemented)
+- [X] Save data to Firebase DB(Firestore). Saves both user data and user notes.
+- [X] Users can change password.
+- [X] Password was hashed.
+- [X] User can create note and add text and/or image.
+- [X] List Notes with title and 2 line content if text.
+- [X] Detail page for note.
+- [X] Note should be editable.
+- [X] User should able to see, edit and create new note even when there is no internet (Data should be synced when there is internet).
 
 ## Usage
 
