@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "336589746727",
+    "project_id": "sfnotesbyharshapulikollu",
+    "storage_bucket": "sfnotesbyharshapulikollu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336589746727:android:735360d30b4e7b080d5402",
+        "android_client_info": {
+          "package_name": "com.example.sfnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336589746727-m7vfirj46kdvulros72v2pj4lbdp9fgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnDk9QwVdaeCvzvDAxurGIow0xoH6x8iI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336589746727-m7vfirj46kdvulros72v2pj4lbdp9fgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
